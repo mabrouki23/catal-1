@@ -1,0 +1,6 @@
+---
+applications:
+- name: catal-1
+  instances: 1
+  memory: 800m
+  path: target/ccatal-1-0.0.1-SNAPSHOT.jar
