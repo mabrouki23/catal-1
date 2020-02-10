@@ -36,7 +36,9 @@
     <groupId>com.microsoft.azure</groupId>
     <artifactId>azure-webapp-maven-plugin</artifactId>
     <version>0.1.2</version>
-</dependency>
+</dependency><!-- https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-security -->
+
+
 
 
 		<dependency>
